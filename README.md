@@ -9,6 +9,10 @@ unobtrusively integrated into any application or framework that supports
 [Connect](http://www.senchalabs.org/connect/)-style middleware, including
 [Express](http://expressjs.com/).
 
+#### Changelog:
+
+- Using new Google+ API for user profile retrieval
+
 ## Installation
 
     $ npm install passport-google-authcode
